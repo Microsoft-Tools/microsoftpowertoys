@@ -1,0 +1,30 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+
+# Credentials
+.internal/GITHUB_CREDENTIALS.md
+.internal/
+
+# Local files
+*.local
+*.log
+
+# OS-specific
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ehthumbs_vista.db
+._* 
